@@ -1,1 +1,12 @@
 /* my style sheet */
+h4 {
+    font-weight: bold;
+}
+
+/* Add an image to the jumbotron */
+.jumbotron {
+    background-image: url("../images/cows.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+  }

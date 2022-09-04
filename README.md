@@ -1,7 +1,7 @@
 # challenge_12 Plotly & Belly Button Biodiversity
 ## Overview 
 
-Roza is a biological researcher who works for an important microbiology laboratory. She is interested in finding bacteria species that jave the ability to synthesize proteins that taste like beef. She thinks that those bacterias can be found inhuman beings belly buttons.
+Roza is a biological researcher who works for an important microbiology laboratory. She is interested in finding bacteria species that have the ability to synthesize proteins that taste like beef. She thinks that those bacterias can be found inhuman beings belly buttons.
 
 To prove that theory, Roza has sampled the navel of some volunteer people across the country to identify bacterial species that live in their belly buttons. She needs to build  an interactive dashboard that volunteers and researchers can  access.
 
